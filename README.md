@@ -23,3 +23,6 @@ Server Client Application made in Python using Multithreading
 		http://localhost:8112/someOtherfile.html -> This gives the 404 Not Found Error on Client side 
 		
 ## Example Output
+
+<img width="644" alt="Server on Terminal" src="https://user-images.githubusercontent.com/28666943/83085028-91ef8a00-a03f-11ea-9a13-03a976681fc9.png">
+
