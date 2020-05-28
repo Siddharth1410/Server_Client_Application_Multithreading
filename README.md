@@ -21,3 +21,5 @@ Server Client Application made in Python using Multithreading
 		http://localhost:8112/helloWorld.html -> This prints HelloWorld on the screen 
 			or
 		http://localhost:8112/someOtherfile.html -> This gives the 404 Not Found Error on Client side 
+		
+## Example Output
